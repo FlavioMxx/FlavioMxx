@@ -1,6 +1,6 @@
 # ***Olá, me chamo Flavio Milani!***
 
-### ***Desenvolvedor fullstack java, estudo bastante para chegar no nível de especialista. <br> Curso Tecnologia da informação na UNIVESP***
+### ***Desenvolvedor fullstack java. <br> Curso Tecnologia da informação na UNIVESP***
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomxx&layout=compact&bg_color=00000000)
   
